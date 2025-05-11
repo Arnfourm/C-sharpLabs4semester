@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "UDgl8NczSG4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\arnfo\\Desktop\\Тп\\Лаба 2\\task2\\task2\\task2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arnfo\\.nuget\\packages\\grid.mvc\\3.0.0\\grid.mvc.3.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"Grid.Mvc 3.0.0\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\", а не целевой платформы проекта \"net8.0\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "Grid.Mvc",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "Grid.Mvc/3.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net40/GridMvc.dll": {}
+        },
+        "runtime": {
+          "lib/net40/GridMvc.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Grid.Mvc/3.0.0": {
+      "sha512": "+yQe5na+egQCaIdBLCmcoFlo44OzvShkTsK/Jw3thkH0aZgta6mQ0PK/eWzsCAYTL6kYB+5zzTGSBH/ZOUSSrQ==",
+      "type": "package",
+      "path": "grid.mvc/3.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Content/Content/Gridmvc.css",
+        "Content/Grid.mvc.readme",
+        "Content/Scripts/gridmvc.js",
+        "Content/Scripts/gridmvc.lang.ru.js",
+        "Content/Scripts/gridmvc.min.js",
+        "Content/Views/Shared/_Grid.cshtml",
+        "Content/Views/Shared/_GridPager.cshtml",
+        "Content/web.config.transform",
+        "grid.mvc.3.0.0.nupkg.sha512",
+        "grid.mvc.nuspec",
+        "lib/net40/GridMvc.dll"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "Grid.Mvc >= 3.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\arnfo\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\arnfo\\Desktop\\Тп\\Лаба 2\\task2\\task2\\task2.csproj",
+      "projectName": "task2",
+      "projectPath": "C:\\Users\\arnfo\\Desktop\\Тп\\Лаба 2\\task2\\task2\\task2.csproj",
+      "packagesPath": "C:\\Users\\arnfo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\arnfo\\Desktop\\Тп\\Лаба 2\\task2\\task2\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\arnfo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "dependencies": {
+          "Grid.Mvc": {
+            "target": "Package",
+            "version": "[3.0.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"Grid.Mvc 3.0.0\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\", а не целевой платформы проекта \"net8.0\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "Grid.Mvc",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

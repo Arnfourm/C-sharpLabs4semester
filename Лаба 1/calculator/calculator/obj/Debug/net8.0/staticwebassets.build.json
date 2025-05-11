@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "WNHQReKdeoybXjuoigKyahiTn6U2CO00gB8EnTstFaw=",
+  "Source": "calculator",
+  "BasePath": "_content/calculator",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "calculator\\wwwroot",
+      "Source": "calculator",
+      "ContentRoot": "C:\\Users\\arnfo\\Desktop\\Тп\\Лаба 1\\Calculator\\calculator\\wwwroot\\",
+      "BasePath": "_content/calculator",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\arnfo\\Desktop\\Тп\\Лаба 1\\Calculator\\calculator\\wwwroot\\css\\StyleSheet.css",
+      "SourceId": "calculator",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\arnfo\\Desktop\\Тп\\Лаба 1\\Calculator\\calculator\\wwwroot\\",
+      "BasePath": "_content/calculator",
+      "RelativePath": "css/StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\StyleSheet.css"
+    }
+  ]
+}

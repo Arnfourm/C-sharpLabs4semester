@@ -1,0 +1,49 @@
+﻿using Microsoft.AspNetCore.Mvc;
+using MySql.Data.MySqlClient;
+using OrderModel.Models;
+
+namespace task_beta.Controllers
+{
+    public class watchController : Controller
+    {
+        private string connection;
+
+        public watchController(IConfiguration configuration)
+        {
+            connection = configuration.GetConnectionString("DefaultConnection");
+        }
+
+        private static List<Order> orders = new List<Order>();
+
+        public IActionResult Observer()
+        {
+            orders.Clear();
+
+            string sqlCommandOrder = "select * from orderinfo";
+            using (MySqlConnection connectionCurrent = new MySqlConnection(connection))
+            {
+                connectionCurrent.Open();
+                MySqlCommand commandCurrent = new MySqlCommand(sqlCommandOrder, connectionCurrent);
+                using (var sqlSelectProduct = commandCurrent.ExecuteReader())
+                {
+                    while (sqlSelectProduct.Read())
+                    {
+                        orders.Add(new Order
+                        {
+                            IdOrder = sqlSelectProduct.GetInt32("OrderId"),
+                            NameOrder = sqlSelectProduct.GetString("OrderName"),
+                            SecondNameOrder = sqlSelectProduct.GetString("OrderSurname"),
+                            EmailOrder = sqlSelectProduct.GetString("OrderEmail"),
+                            AddressOrder = sqlSelectProduct.GetString("OrderAddress"),
+                            QuantityOrder = sqlSelectProduct.GetInt32("OrderQuantity"),
+                        });
+                    }
+                }
+            }
+
+            ViewBag.Orders = orders;
+
+            return View();
+        }
+    }
+}

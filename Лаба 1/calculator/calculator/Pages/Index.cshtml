@@ -1,0 +1,61 @@
+﻿@page
+@model calculator.Pages.IndexModel
+@{
+
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="~/css/StyleSheet.css" asp-append-version="true" />
+</head>
+<body>
+    <form method="post">
+        <div class="writeTime">
+            <p>Сегодня: @DateTime.Now.ToLongDateString()</p>
+            <p>Время: @DateTime.Now.ToShortTimeString()</p>
+        </div>
+
+        <input type="hidden" name="firstActive" value="@Model.firstNumberActive.ToString()" />
+        <div class="calculator">
+            <div class="infoDisplay">
+                <input type="number" name="numberOnDisplayFirst" class="NumberInDisplay" value="@Model.firstNumber" step="0.01">
+                <p class="operationMemberUnit">@Model.operationMember</p>
+                <input type="number" name="numberOnDisplaySecond" class="NumberInDisplay" value="@Model.secondNumber" step="0.01">
+                <p class="resultNumber">@Model.finalNumber</p>
+            </div>
+            <div class="calcinputs">
+                <input type="submit" name="operation" value="%" class="calcinput operation">
+                <input type="submit" name="operation" value="CE" class="calcinput operation">
+                <input type="submit" name="operation" value="C" class="calcinput operation">
+                <input type="submit" name="operation" value="Del" class="calcinput operation">
+
+                <input type="submit" name="operation" value="1/x" class="calcinput operation">
+                <input type="submit" name="operation" value="x^2" class="calcinput operation">
+                <input type="submit" name="operation" value="sqrt(x)" class="calcinput operation">
+                <input type="submit" name="operation" value="/" class="calcinput operation">
+
+                <input type="submit" name="operation" value="7" class="calcinput calcNumber">
+                <input type="submit" name="operation" value="8" class="calcinput calcNumber">
+                <input type="submit" name="operation" value="9" class="calcinput calcNumber">
+                <input type="submit" name="operation" value="*" class="calcinput operation">
+
+                <input type="submit" name="operation" value="4" class="calcinput calcNumber">
+                <input type="submit" name="operation" value="5" class="calcinput calcNumber">
+                <input type="submit" name="operation" value="6" class="calcinput calcNumber">
+                <input type="submit" name="operation" value="-" class="calcinput operation">
+
+                <input type="submit" name="operation" value="1" class="calcinput calcNumber">
+                <input type="submit" name="operation" value="2" class="calcinput calcNumber">
+                <input type="submit" name="operation" value="3" class="calcinput calcNumber">
+                <input type="submit" name="operation" value="+" class="calcinput operation">
+
+                <input type="submit" name="operation" value="+/-" class="calcinput calcNumber">
+                <input type="submit" name="operation" value="0" class="calcinput calcNumber">
+                <input type="submit" name="operation" value="," class="calcinput calcNumber">
+                <input type="submit" name="operation" value="=" class="calcinput finalOperation">
+            </div>
+        </div>
+    </form>
+</body>
+</html>

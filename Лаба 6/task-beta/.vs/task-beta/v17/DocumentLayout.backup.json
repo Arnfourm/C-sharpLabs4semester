@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\arnfo\\Desktop\\\u0422\u043F\\\u041B\u0430\u0431\u0430 6\\task-beta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B45F679-9C95-43B6-BA1D-174C84DAA421}|task-beta\\task-beta.csproj|c:\\users\\arnfo\\desktop\\\u0442\u043F\\\u043B\u0430\u0431\u0430 6\\task-beta\\task-beta\\models\\appdateinitilizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B45F679-9C95-43B6-BA1D-174C84DAA421}|task-beta\\task-beta.csproj|solutionrelative:task-beta\\models\\appdateinitilizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B45F679-9C95-43B6-BA1D-174C84DAA421}|task-beta\\task-beta.csproj|c:\\users\\arnfo\\desktop\\\u0442\u043F\\\u043B\u0430\u0431\u0430 6\\task-beta\\task-beta\\controllers\\deletecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B45F679-9C95-43B6-BA1D-174C84DAA421}|task-beta\\task-beta.csproj|solutionrelative:task-beta\\controllers\\deletecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\arnfo\\Desktop\\\u0422\u043F\\\u041B\u0430\u0431\u0430 6\\task-beta\\task-beta\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:task-beta\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B45F679-9C95-43B6-BA1D-174C84DAA421}|task-beta\\task-beta.csproj|c:\\users\\arnfo\\desktop\\\u0442\u043F\\\u043B\u0430\u0431\u0430 6\\task-beta\\task-beta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B45F679-9C95-43B6-BA1D-174C84DAA421}|task-beta\\task-beta.csproj|solutionrelative:task-beta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B45F679-9C95-43B6-BA1D-174C84DAA421}|task-beta\\task-beta.csproj|c:\\users\\arnfo\\desktop\\\u0442\u043F\\\u043B\u0430\u0431\u0430 6\\task-beta\\task-beta\\migrations\\20250427184017_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B45F679-9C95-43B6-BA1D-174C84DAA421}|task-beta\\task-beta.csproj|solutionrelative:task-beta\\migrations\\20250427184017_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B45F679-9C95-43B6-BA1D-174C84DAA421}|task-beta\\task-beta.csproj|c:\\users\\arnfo\\desktop\\\u0442\u043F\\\u043B\u0430\u0431\u0430 6\\task-beta\\task-beta\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B45F679-9C95-43B6-BA1D-174C84DAA421}|task-beta\\task-beta.csproj|solutionrelative:task-beta\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 2010,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "libman.json",
+              "DocumentMoniker": "C:\\Users\\arnfo\\Desktop\\\u0422\u043F\\\u041B\u0430\u0431\u0430 6\\task-beta\\task-beta\\libman.json",
+              "RelativeDocumentMoniker": "task-beta\\libman.json",
+              "ToolTip": "C:\\Users\\arnfo\\Desktop\\\u0422\u043F\\\u041B\u0430\u0431\u0430 6\\task-beta\\task-beta\\libman.json",
+              "RelativeToolTip": "task-beta\\libman.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-27T18:38:40.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "deleteController.cs",
+              "DocumentMoniker": "C:\\Users\\arnfo\\Desktop\\\u0422\u043F\\\u041B\u0430\u0431\u0430 6\\task-beta\\task-beta\\Controllers\\deleteController.cs",
+              "RelativeDocumentMoniker": "task-beta\\Controllers\\deleteController.cs",
+              "ToolTip": "C:\\Users\\arnfo\\Desktop\\\u0422\u043F\\\u041B\u0430\u0431\u0430 6\\task-beta\\task-beta\\Controllers\\deleteController.cs",
+              "RelativeToolTip": "task-beta\\Controllers\\deleteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T17:46:42.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appDateInitilizer.cs",
+              "DocumentMoniker": "C:\\Users\\arnfo\\Desktop\\\u0422\u043F\\\u041B\u0430\u0431\u0430 6\\task-beta\\task-beta\\Models\\appDateInitilizer.cs",
+              "RelativeDocumentMoniker": "task-beta\\Models\\appDateInitilizer.cs",
+              "ToolTip": "C:\\Users\\arnfo\\Desktop\\\u0422\u043F\\\u041B\u0430\u0431\u0430 6\\task-beta\\task-beta\\Models\\appDateInitilizer.cs",
+              "RelativeToolTip": "task-beta\\Models\\appDateInitilizer.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwBoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T16:32:14.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\arnfo\\Desktop\\\u0422\u043F\\\u041B\u0430\u0431\u0430 6\\task-beta\\task-beta\\Program.cs",
+              "RelativeDocumentMoniker": "task-beta\\Program.cs",
+              "ToolTip": "C:\\Users\\arnfo\\Desktop\\\u0422\u043F\\\u041B\u0430\u0431\u0430 6\\task-beta\\task-beta\\Program.cs",
+              "RelativeToolTip": "task-beta\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T14:39:16.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250427184017_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\arnfo\\Desktop\\\u0422\u043F\\\u041B\u0430\u0431\u0430 6\\task-beta\\task-beta\\Migrations\\20250427184017_InitialCreate.cs",
+              "RelativeDocumentMoniker": "task-beta\\Migrations\\20250427184017_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\arnfo\\Desktop\\\u0422\u043F\\\u041B\u0430\u0431\u0430 6\\task-beta\\task-beta\\Migrations\\20250427184017_InitialCreate.cs",
+              "RelativeToolTip": "task-beta\\Migrations\\20250427184017_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T18:40:17.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\arnfo\\Desktop\\\u0422\u043F\\\u041B\u0430\u0431\u0430 6\\task-beta\\task-beta\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "task-beta\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\arnfo\\Desktop\\\u0422\u043F\\\u041B\u0430\u0431\u0430 6\\task-beta\\task-beta\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "task-beta\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T16:17:02.544Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
