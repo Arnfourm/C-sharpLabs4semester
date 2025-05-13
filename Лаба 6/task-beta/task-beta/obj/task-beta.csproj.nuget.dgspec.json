@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\arnfo\\Desktop\\Тп\\Лаба 6\\task-beta\\task-beta\\task-beta.csproj": {}
+    "C:\\Users\\arnfo\\Desktop\\C-sharpLabs4semester\\Лаба 6\\task-beta\\task-beta\\task-beta.csproj": {}
   },
   "projects": {
-    "C:\\Users\\arnfo\\Desktop\\Тп\\Лаба 6\\task-beta\\task-beta\\task-beta.csproj": {
+    "C:\\Users\\arnfo\\Desktop\\C-sharpLabs4semester\\Лаба 6\\task-beta\\task-beta\\task-beta.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\arnfo\\Desktop\\Тп\\Лаба 6\\task-beta\\task-beta\\task-beta.csproj",
+        "projectUniqueName": "C:\\Users\\arnfo\\Desktop\\C-sharpLabs4semester\\Лаба 6\\task-beta\\task-beta\\task-beta.csproj",
         "projectName": "task-beta",
-        "projectPath": "C:\\Users\\arnfo\\Desktop\\Тп\\Лаба 6\\task-beta\\task-beta\\task-beta.csproj",
+        "projectPath": "C:\\Users\\arnfo\\Desktop\\C-sharpLabs4semester\\Лаба 6\\task-beta\\task-beta\\task-beta.csproj",
         "packagesPath": "C:\\Users\\arnfo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\arnfo\\Desktop\\Тп\\Лаба 6\\task-beta\\task-beta\\obj\\",
+        "outputPath": "C:\\Users\\arnfo\\Desktop\\C-sharpLabs4semester\\Лаба 6\\task-beta\\task-beta\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\arnfo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -52,21 +52,23 @@
             },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[8.0.15, )"
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.8, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.15, )"
+              "version": "[8.0.8, )"
             },
             "MySql.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[9.0.3, )"
-            },
-            "Pomelo.EntityFrameworkCore.MySql": {
-              "target": "Package",
-              "version": "[8.0.3, )"
+              "version": "[8.0.8, )"
             }
           },
           "imports": [

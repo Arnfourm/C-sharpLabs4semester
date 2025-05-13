@@ -22,21 +22,21 @@ public class appDateInitilizer
                 Email = adminLogin
             };
 
-            // Сначала создайте пользователя и сохраните его в базе данных
             var result = await userManager.CreateAsync(adminUser, adminPass);
             if (result.Succeeded)
             {
+                Console.WriteLine("User successfully created");
                 await userManager.AddToRoleAsync(adminUser, "Admin");
             }
             else
             {
-                // Выводим ошибку, если создание не удалось
+                Console.WriteLine("User creation failed:");
                 foreach (var error in result.Errors)
                 {
-                    Console.WriteLine(error.Description);  // Логируем ошибки
+                    Console.WriteLine($"Error: {error.Description}");
                 }
             }
-
         }
     }
+
 }

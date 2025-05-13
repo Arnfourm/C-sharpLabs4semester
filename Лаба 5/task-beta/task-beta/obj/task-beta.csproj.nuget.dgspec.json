@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\arnfo\\Desktop\\Тп\\Лаба 5\\task-beta\\task-beta\\task-beta.csproj": {}
+    "C:\\Users\\arnfo\\Desktop\\C-sharpLabs4semester\\Лаба 5\\task-beta\\task-beta\\task-beta.csproj": {}
   },
   "projects": {
-    "C:\\Users\\arnfo\\Desktop\\Тп\\Лаба 5\\task-beta\\task-beta\\task-beta.csproj": {
+    "C:\\Users\\arnfo\\Desktop\\C-sharpLabs4semester\\Лаба 5\\task-beta\\task-beta\\task-beta.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\arnfo\\Desktop\\Тп\\Лаба 5\\task-beta\\task-beta\\task-beta.csproj",
+        "projectUniqueName": "C:\\Users\\arnfo\\Desktop\\C-sharpLabs4semester\\Лаба 5\\task-beta\\task-beta\\task-beta.csproj",
         "projectName": "task-beta",
-        "projectPath": "C:\\Users\\arnfo\\Desktop\\Тп\\Лаба 5\\task-beta\\task-beta\\task-beta.csproj",
+        "projectPath": "C:\\Users\\arnfo\\Desktop\\C-sharpLabs4semester\\Лаба 5\\task-beta\\task-beta\\task-beta.csproj",
         "packagesPath": "C:\\Users\\arnfo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\arnfo\\Desktop\\Тп\\Лаба 5\\task-beta\\task-beta\\obj\\",
+        "outputPath": "C:\\Users\\arnfo\\Desktop\\C-sharpLabs4semester\\Лаба 5\\task-beta\\task-beta\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\arnfo\\AppData\\Roaming\\NuGet\\NuGet.Config",

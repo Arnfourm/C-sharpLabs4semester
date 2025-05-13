@@ -1,9 +1,11 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using MySql.Data.MySqlClient;
 using OrderModel.Models;
+using Microsoft.AspNetCore.Authorization;
 
 namespace task_beta.Controllers
 {
+    [Authorize(Roles = "Admin")]
     public class deleteController : Controller
     {
         private string connection;

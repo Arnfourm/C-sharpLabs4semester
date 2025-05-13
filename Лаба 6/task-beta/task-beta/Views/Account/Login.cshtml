@@ -1,0 +1,35 @@
+﻿@{
+    ViewData["Title"] = "Вход";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Overpass:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+    <title>Details</title>
+    <link rel="stylesheet" href="~/css/Forms.css">
+</head>
+<body>
+    <h2>Вход</h2>
+
+    <form method="post">
+        <p><input type="email" name="email" placeholder="Email" required /></p>
+        <p><input type="password" name="password" placeholder="Пароль" required /></p>
+        <p><button type="submit">Войти</button></p>
+    </form>
+
+    @if (!ViewData.ModelState.IsValid)
+    {
+        <div class="text-danger">
+            @foreach (var error in ViewData.ModelState.Values.SelectMany(v => v.Errors))
+            {
+                <p>@error.ErrorMessage</p>
+            }
+        </div>
+    }
+</body>
+</html>
