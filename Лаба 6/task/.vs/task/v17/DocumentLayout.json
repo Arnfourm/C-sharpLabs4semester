@@ -1,0 +1,301 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\arnfo\\Desktop\\C-sharpLabs4semester\\\u041B\u0430\u0431\u0430 6\\task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB796A6-3287-4B60-8A80-8E1A2FC2FD20}|task\\task.csproj|c:\\users\\arnfo\\desktop\\c-sharplabs4semester\\\u043B\u0430\u0431\u0430 6\\task\\task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB796A6-3287-4B60-8A80-8E1A2FC2FD20}|task\\task.csproj|solutionrelative:task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB796A6-3287-4B60-8A80-8E1A2FC2FD20}|task\\task.csproj|c:\\users\\arnfo\\desktop\\c-sharplabs4semester\\\u043B\u0430\u0431\u0430 6\\task\\task\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB796A6-3287-4B60-8A80-8E1A2FC2FD20}|task\\task.csproj|solutionrelative:task\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB796A6-3287-4B60-8A80-8E1A2FC2FD20}|task\\task.csproj|c:\\users\\arnfo\\desktop\\c-sharplabs4semester\\\u043B\u0430\u0431\u0430 6\\task\\task\\controllers\\deletecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB796A6-3287-4B60-8A80-8E1A2FC2FD20}|task\\task.csproj|solutionrelative:task\\controllers\\deletecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB796A6-3287-4B60-8A80-8E1A2FC2FD20}|task\\task.csproj|c:\\users\\arnfo\\desktop\\c-sharplabs4semester\\\u043B\u0430\u0431\u0430 6\\task\\task\\controllers\\editcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB796A6-3287-4B60-8A80-8E1A2FC2FD20}|task\\task.csproj|solutionrelative:task\\controllers\\editcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB796A6-3287-4B60-8A80-8E1A2FC2FD20}|task\\task.csproj|c:\\users\\arnfo\\desktop\\c-sharplabs4semester\\\u043B\u0430\u0431\u0430 6\\task\\task\\wwwroot\\js\\javascript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1BB796A6-3287-4B60-8A80-8E1A2FC2FD20}|task\\task.csproj|solutionrelative:task\\wwwroot\\js\\javascript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB796A6-3287-4B60-8A80-8E1A2FC2FD20}|task\\task.csproj|c:\\users\\arnfo\\desktop\\c-sharplabs4semester\\\u043B\u0430\u0431\u0430 6\\task\\task\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1BB796A6-3287-4B60-8A80-8E1A2FC2FD20}|task\\task.csproj|solutionrelative:task\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB796A6-3287-4B60-8A80-8E1A2FC2FD20}|task\\task.csproj|c:\\users\\arnfo\\desktop\\c-sharplabs4semester\\\u043B\u0430\u0431\u0430 6\\task\\task\\controllers\\observercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB796A6-3287-4B60-8A80-8E1A2FC2FD20}|task\\task.csproj|solutionrelative:task\\controllers\\observercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB796A6-3287-4B60-8A80-8E1A2FC2FD20}|task\\task.csproj|c:\\users\\arnfo\\desktop\\c-sharplabs4semester\\\u043B\u0430\u0431\u0430 6\\task\\task\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB796A6-3287-4B60-8A80-8E1A2FC2FD20}|task\\task.csproj|solutionrelative:task\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB796A6-3287-4B60-8A80-8E1A2FC2FD20}|task\\task.csproj|c:\\users\\arnfo\\desktop\\c-sharplabs4semester\\\u043B\u0430\u0431\u0430 6\\task\\task\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1BB796A6-3287-4B60-8A80-8E1A2FC2FD20}|task\\task.csproj|solutionrelative:task\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB796A6-3287-4B60-8A80-8E1A2FC2FD20}|task\\task.csproj|c:\\users\\arnfo\\desktop\\c-sharplabs4semester\\\u043B\u0430\u0431\u0430 6\\task\\task\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1BB796A6-3287-4B60-8A80-8E1A2FC2FD20}|task\\task.csproj|solutionrelative:task\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB796A6-3287-4B60-8A80-8E1A2FC2FD20}|task\\task.csproj|c:\\users\\arnfo\\desktop\\c-sharplabs4semester\\\u043B\u0430\u0431\u0430 6\\task\\task\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1BB796A6-3287-4B60-8A80-8E1A2FC2FD20}|task\\task.csproj|solutionrelative:task\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB796A6-3287-4B60-8A80-8E1A2FC2FD20}|task\\task.csproj|c:\\users\\arnfo\\desktop\\c-sharplabs4semester\\\u043B\u0430\u0431\u0430 6\\task\\task\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1BB796A6-3287-4B60-8A80-8E1A2FC2FD20}|task\\task.csproj|solutionrelative:task\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB796A6-3287-4B60-8A80-8E1A2FC2FD20}|task\\task.csproj|c:\\users\\arnfo\\desktop\\c-sharplabs4semester\\\u043B\u0430\u0431\u0430 6\\task\\task\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1BB796A6-3287-4B60-8A80-8E1A2FC2FD20}|task\\task.csproj|solutionrelative:task\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB796A6-3287-4B60-8A80-8E1A2FC2FD20}|task\\task.csproj|c:\\users\\arnfo\\desktop\\c-sharplabs4semester\\\u043B\u0430\u0431\u0430 6\\task\\task\\models\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB796A6-3287-4B60-8A80-8E1A2FC2FD20}|task\\task.csproj|solutionrelative:task\\models\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB796A6-3287-4B60-8A80-8E1A2FC2FD20}|task\\task.csproj|c:\\users\\arnfo\\desktop\\c-sharplabs4semester\\\u043B\u0430\u0431\u0430 6\\task\\task\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1BB796A6-3287-4B60-8A80-8E1A2FC2FD20}|task\\task.csproj|solutionrelative:task\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 2010,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\arnfo\\Desktop\\C-sharpLabs4semester\\\u041B\u0430\u0431\u0430 6\\task\\task\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "task\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\arnfo\\Desktop\\C-sharpLabs4semester\\\u041B\u0430\u0431\u0430 6\\task\\task\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "task\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T10:03:54.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "deleteController.cs",
+              "DocumentMoniker": "C:\\Users\\arnfo\\Desktop\\C-sharpLabs4semester\\\u041B\u0430\u0431\u0430 6\\task\\task\\Controllers\\deleteController.cs",
+              "RelativeDocumentMoniker": "task\\Controllers\\deleteController.cs",
+              "ToolTip": "C:\\Users\\arnfo\\Desktop\\C-sharpLabs4semester\\\u041B\u0430\u0431\u0430 6\\task\\task\\Controllers\\deleteController.cs",
+              "RelativeToolTip": "task\\Controllers\\deleteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T09:45:46.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "editController.cs",
+              "DocumentMoniker": "C:\\Users\\arnfo\\Desktop\\C-sharpLabs4semester\\\u041B\u0430\u0431\u0430 6\\task\\task\\Controllers\\editController.cs",
+              "RelativeDocumentMoniker": "task\\Controllers\\editController.cs",
+              "ToolTip": "C:\\Users\\arnfo\\Desktop\\C-sharpLabs4semester\\\u041B\u0430\u0431\u0430 6\\task\\task\\Controllers\\editController.cs",
+              "RelativeToolTip": "task\\Controllers\\editController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T09:45:43.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "observerController.cs",
+              "DocumentMoniker": "C:\\Users\\arnfo\\Desktop\\C-sharpLabs4semester\\\u041B\u0430\u0431\u0430 6\\task\\task\\Controllers\\observerController.cs",
+              "RelativeDocumentMoniker": "task\\Controllers\\observerController.cs",
+              "ToolTip": "C:\\Users\\arnfo\\Desktop\\C-sharpLabs4semester\\\u041B\u0430\u0431\u0430 6\\task\\task\\Controllers\\observerController.cs",
+              "RelativeToolTip": "task\\Controllers\\observerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T09:45:30.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\arnfo\\Desktop\\C-sharpLabs4semester\\\u041B\u0430\u0431\u0430 6\\task\\task\\Program.cs",
+              "RelativeDocumentMoniker": "task\\Program.cs",
+              "ToolTip": "C:\\Users\\arnfo\\Desktop\\C-sharpLabs4semester\\\u041B\u0430\u0431\u0430 6\\task\\task\\Program.cs",
+              "RelativeToolTip": "task\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T07:47:53.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JavaScript.js",
+              "DocumentMoniker": "C:\\Users\\arnfo\\Desktop\\C-sharpLabs4semester\\\u041B\u0430\u0431\u0430 6\\task\\task\\wwwroot\\js\\JavaScript.js",
+              "RelativeDocumentMoniker": "task\\wwwroot\\js\\JavaScript.js",
+              "ToolTip": "C:\\Users\\arnfo\\Desktop\\C-sharpLabs4semester\\\u041B\u0430\u0431\u0430 6\\task\\task\\wwwroot\\js\\JavaScript.js",
+              "RelativeToolTip": "task\\wwwroot\\js\\JavaScript.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-14T09:36:33.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\arnfo\\Desktop\\C-sharpLabs4semester\\\u041B\u0430\u0431\u0430 6\\task\\task\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "task\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\arnfo\\Desktop\\C-sharpLabs4semester\\\u041B\u0430\u0431\u0430 6\\task\\task\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "task\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-14T09:36:31.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\arnfo\\Desktop\\C-sharpLabs4semester\\\u041B\u0430\u0431\u0430 6\\task\\task\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "task\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\arnfo\\Desktop\\C-sharpLabs4semester\\\u041B\u0430\u0431\u0430 6\\task\\task\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "task\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-14T09:35:37.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\arnfo\\Desktop\\C-sharpLabs4semester\\\u041B\u0430\u0431\u0430 6\\task\\task\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "task\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\arnfo\\Desktop\\C-sharpLabs4semester\\\u041B\u0430\u0431\u0430 6\\task\\task\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "task\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T09:17:10.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "homeController.cs",
+              "DocumentMoniker": "C:\\Users\\arnfo\\Desktop\\C-sharpLabs4semester\\\u041B\u0430\u0431\u0430 6\\task\\task\\Controllers\\homeController.cs",
+              "RelativeDocumentMoniker": "task\\Controllers\\homeController.cs",
+              "ToolTip": "C:\\Users\\arnfo\\Desktop\\C-sharpLabs4semester\\\u041B\u0430\u0431\u0430 6\\task\\task\\Controllers\\homeController.cs",
+              "RelativeToolTip": "task\\Controllers\\homeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T08:13:05.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\arnfo\\Desktop\\C-sharpLabs4semester\\\u041B\u0430\u0431\u0430 6\\task\\task\\appsettings.json",
+              "RelativeDocumentMoniker": "task\\appsettings.json",
+              "ToolTip": "C:\\Users\\arnfo\\Desktop\\C-sharpLabs4semester\\\u041B\u0430\u0431\u0430 6\\task\\task\\appsettings.json",
+              "RelativeToolTip": "task\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-14T09:29:06.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\arnfo\\Desktop\\C-sharpLabs4semester\\\u041B\u0430\u0431\u0430 6\\task\\task\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "task\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\arnfo\\Desktop\\C-sharpLabs4semester\\\u041B\u0430\u0431\u0430 6\\task\\task\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "task\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T09:17:16.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\arnfo\\Desktop\\C-sharpLabs4semester\\\u041B\u0430\u0431\u0430 6\\task\\task\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "task\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\arnfo\\Desktop\\C-sharpLabs4semester\\\u041B\u0430\u0431\u0430 6\\task\\task\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "task\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T09:17:19.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderModel.cs",
+              "DocumentMoniker": "C:\\Users\\arnfo\\Desktop\\C-sharpLabs4semester\\\u041B\u0430\u0431\u0430 6\\task\\task\\Models\\OrderModel.cs",
+              "RelativeDocumentMoniker": "task\\Models\\OrderModel.cs",
+              "ToolTip": "C:\\Users\\arnfo\\Desktop\\C-sharpLabs4semester\\\u041B\u0430\u0431\u0430 6\\task\\task\\Models\\OrderModel.cs",
+              "RelativeToolTip": "task\\Models\\OrderModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T09:25:23.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\arnfo\\Desktop\\C-sharpLabs4semester\\\u041B\u0430\u0431\u0430 6\\task\\task\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "task\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\arnfo\\Desktop\\C-sharpLabs4semester\\\u041B\u0430\u0431\u0430 6\\task\\task\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "task\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T09:17:32.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
