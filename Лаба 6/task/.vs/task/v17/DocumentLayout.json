@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\arnfo\\Desktop\\C-sharpLabs4semester123\\\u041B\u0430\u0431\u0430 6\\task\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1BB796A6-3287-4B60-8A80-8E1A2FC2FD20}|task\\task.csproj|c:\\users\\arnfo\\desktop\\c-sharplabs4semester123\\\u043B\u0430\u0431\u0430 6\\task\\task\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB796A6-3287-4B60-8A80-8E1A2FC2FD20}|task\\task.csproj|solutionrelative:task\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1BB796A6-3287-4B60-8A80-8E1A2FC2FD20}|task\\task.csproj|c:\\users\\arnfo\\desktop\\c-sharplabs4semester123\\\u043B\u0430\u0431\u0430 6\\task\\task\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1BB796A6-3287-4B60-8A80-8E1A2FC2FD20}|task\\task.csproj|solutionrelative:task\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1BB796A6-3287-4B60-8A80-8E1A2FC2FD20}|task\\task.csproj|c:\\users\\arnfo\\desktop\\c-sharplabs4semester123\\\u043B\u0430\u0431\u0430 6\\task\\task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1BB796A6-3287-4B60-8A80-8E1A2FC2FD20}|task\\task.csproj|solutionrelative:task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1BB796A6-3287-4B60-8A80-8E1A2FC2FD20}|task\\task.csproj|c:\\users\\arnfo\\desktop\\c-sharplabs4semester123\\\u043B\u0430\u0431\u0430 6\\task\\task\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BB796A6-3287-4B60-8A80-8E1A2FC2FD20}|task\\task.csproj|solutionrelative:task\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1BB796A6-3287-4B60-8A80-8E1A2FC2FD20}|task\\task.csproj|c:\\users\\arnfo\\desktop\\c-sharplabs4semester123\\\u043B\u0430\u0431\u0430 6\\task\\task\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -48,12 +48,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{1BB796A6-3287-4B60-8A80-8E1A2FC2FD20}|task\\task.csproj|c:\\users\\arnfo\\desktop\\c-sharplabs4semester123\\\u043B\u0430\u0431\u0430 6\\task\\task\\controllers\\editcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1BB796A6-3287-4B60-8A80-8E1A2FC2FD20}|task\\task.csproj|solutionrelative:task\\controllers\\editcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\arnfo\\AppData\\Local\\Temp\\bnq53zkg..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\arnfo\\AppData\\Local\\Temp\\bnq53zkg..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -77,71 +71,19 @@
         },
         {
           "DockedWidth": 2010,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "SQLQuery1.sql ",
+              "Title": "bnq53zkg..sql",
               "DocumentMoniker": "C:\\Users\\arnfo\\AppData\\Local\\Temp\\bnq53zkg..sql",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\bnq53zkg..sql",
-              "ToolTip": "SQLQuery1.sql *",
+              "ToolTip": "C:\\Users\\arnfo\\AppData\\Local\\Temp\\bnq53zkg..sql",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\bnq53zkg..sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
               "WhenOpened": "2025-05-14T16:57:14.488Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\arnfo\\Desktop\\C-sharpLabs4semester123\\\u041B\u0430\u0431\u0430 6\\task\\task\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "task\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\arnfo\\Desktop\\C-sharpLabs4semester123\\\u041B\u0430\u0431\u0430 6\\task\\task\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
-              "RelativeToolTip": "task\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-14T21:31:56.625Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\arnfo\\Desktop\\C-sharpLabs4semester123\\\u041B\u0430\u0431\u0430 6\\task\\task\\Program.cs",
-              "RelativeDocumentMoniker": "task\\Program.cs",
-              "ToolTip": "C:\\Users\\arnfo\\Desktop\\C-sharpLabs4semester123\\\u041B\u0430\u0431\u0430 6\\task\\task\\Program.cs",
-              "RelativeToolTip": "task\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T07:47:53.49Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\arnfo\\Desktop\\C-sharpLabs4semester123\\\u041B\u0430\u0431\u0430 6\\task\\task\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "task\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\arnfo\\Desktop\\C-sharpLabs4semester123\\\u041B\u0430\u0431\u0430 6\\task\\task\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "task\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T10:03:54.659Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\arnfo\\Desktop\\C-sharpLabs4semester123\\\u041B\u0430\u0431\u0430 6\\task\\task\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "task\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\arnfo\\Desktop\\C-sharpLabs4semester123\\\u041B\u0430\u0431\u0430 6\\task\\task\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "task\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABNAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-14T19:51:44.317Z",
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -161,6 +103,57 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\arnfo\\Desktop\\C-sharpLabs4semester123\\\u041B\u0430\u0431\u0430 6\\task\\task\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "task\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\arnfo\\Desktop\\C-sharpLabs4semester123\\\u041B\u0430\u0431\u0430 6\\task\\task\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "task\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T21:31:56.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\arnfo\\Desktop\\C-sharpLabs4semester123\\\u041B\u0430\u0431\u0430 6\\task\\task\\Program.cs",
+              "RelativeDocumentMoniker": "task\\Program.cs",
+              "ToolTip": "C:\\Users\\arnfo\\Desktop\\C-sharpLabs4semester123\\\u041B\u0430\u0431\u0430 6\\task\\task\\Program.cs",
+              "RelativeToolTip": "task\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T07:47:53.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\arnfo\\Desktop\\C-sharpLabs4semester123\\\u041B\u0430\u0431\u0430 6\\task\\task\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "task\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\arnfo\\Desktop\\C-sharpLabs4semester123\\\u041B\u0430\u0431\u0430 6\\task\\task\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "task\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T10:03:54.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\arnfo\\Desktop\\C-sharpLabs4semester123\\\u041B\u0430\u0431\u0430 6\\task\\task\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "task\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\arnfo\\Desktop\\C-sharpLabs4semester123\\\u041B\u0430\u0431\u0430 6\\task\\task\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "task\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T19:51:44.317Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Observer.cshtml",
               "DocumentMoniker": "C:\\Users\\arnfo\\Desktop\\C-sharpLabs4semester123\\\u041B\u0430\u0431\u0430 6\\task\\task\\Views\\Watch\\Observer.cshtml",
@@ -169,8 +162,7 @@
               "RelativeToolTip": "task\\Views\\Watch\\Observer.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-14T20:06:08.887Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T20:06:08.887Z"
             },
             {
               "$type": "Document",
@@ -182,8 +174,7 @@
               "RelativeToolTip": "task\\Views\\Delete\\Deleter.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-14T20:06:01.161Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T20:06:01.161Z"
             },
             {
               "$type": "Document",
@@ -195,8 +186,7 @@
               "RelativeToolTip": "task\\Controllers\\deleteController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T09:45:46.031Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T09:45:46.031Z"
             },
             {
               "$type": "Document",
@@ -208,8 +198,7 @@
               "RelativeToolTip": "task\\Models\\OrderModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T09:25:23.376Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T09:25:23.376Z"
             },
             {
               "$type": "Document",
@@ -221,8 +210,7 @@
               "RelativeToolTip": "task\\Views\\Edit\\Editor.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-14T20:05:56.465Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T20:05:56.465Z"
             },
             {
               "$type": "Document",
@@ -234,8 +222,7 @@
               "RelativeToolTip": "task\\Controllers\\observerController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T09:45:30.485Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T09:45:30.485Z"
             },
             {
               "$type": "Document",
@@ -247,8 +234,7 @@
               "RelativeToolTip": "task\\Controllers\\editController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T09:45:43.736Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T09:45:43.736Z"
             }
           ]
         }
