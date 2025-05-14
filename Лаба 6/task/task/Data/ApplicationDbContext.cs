@@ -4,11 +4,16 @@ using Microsoft.EntityFrameworkCore;
 
 namespace task.Data
 {
+    //public class ApplicationDbContext : IdentityDbContext<IdentityUser>
     public class ApplicationDbContext : IdentityDbContext<IdentityUser, IdentityRole, string>
     {
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
             : base(options)
         {
+        }
+        protected override void OnModelCreating(ModelBuilder builder)
+        {
+            base.OnModelCreating(builder);
         }
     }
 }

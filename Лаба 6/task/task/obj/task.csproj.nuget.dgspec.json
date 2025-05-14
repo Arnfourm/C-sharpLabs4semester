@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\arnfo\\Desktop\\C-sharpLabs4semester\\Лаба 6\\task\\task\\task.csproj": {}
+    "C:\\Users\\arnfo\\Desktop\\C-sharpLabs4semester123\\Лаба 6\\task\\task\\task.csproj": {}
   },
   "projects": {
-    "C:\\Users\\arnfo\\Desktop\\C-sharpLabs4semester\\Лаба 6\\task\\task\\task.csproj": {
+    "C:\\Users\\arnfo\\Desktop\\C-sharpLabs4semester123\\Лаба 6\\task\\task\\task.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\arnfo\\Desktop\\C-sharpLabs4semester\\Лаба 6\\task\\task\\task.csproj",
+        "projectUniqueName": "C:\\Users\\arnfo\\Desktop\\C-sharpLabs4semester123\\Лаба 6\\task\\task\\task.csproj",
         "projectName": "task",
-        "projectPath": "C:\\Users\\arnfo\\Desktop\\C-sharpLabs4semester\\Лаба 6\\task\\task\\task.csproj",
+        "projectPath": "C:\\Users\\arnfo\\Desktop\\C-sharpLabs4semester123\\Лаба 6\\task\\task\\task.csproj",
         "packagesPath": "C:\\Users\\arnfo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\arnfo\\Desktop\\C-sharpLabs4semester\\Лаба 6\\task\\task\\obj\\",
+        "outputPath": "C:\\Users\\arnfo\\Desktop\\C-sharpLabs4semester123\\Лаба 6\\task\\task\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\arnfo\\AppData\\Roaming\\NuGet\\NuGet.Config",

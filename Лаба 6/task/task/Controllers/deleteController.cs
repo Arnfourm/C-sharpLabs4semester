@@ -20,6 +20,16 @@ namespace task_beta.Controllers
         [HttpGet]
         public IActionResult Deleter()
         {
+            Console.WriteLine("Пользователь авторизован: " + User.Identity.IsAuthenticated);
+            Console.WriteLine("Имя пользователя: " + User.Identity.Name);
+
+            foreach (var claim in User.Claims)
+            {
+                Console.WriteLine($"CLAIM => Type: {claim.Type}, Value: {claim.Value}");
+            }
+
+            Console.WriteLine("User.IsInRole(\"Admin\"): " + User.IsInRole("Admin"));
+
             return View();
         }
 

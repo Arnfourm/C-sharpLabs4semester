@@ -16,17 +16,9 @@
     <link rel="stylesheet" href="~/css/StyleSheet.css">
 </head>
 <body>
-    <header>
-        <ul class="list-style">
-            <li><a href="#">Home</a></li>
-            <li><a href="~/Watch/Observer">Observer</a></li>
-            <li><a href="~/Edit/Editor">Editor</a></li>
-            <li><a href="~/Delete/Deleter">Deleter</a></li>
-            <li><a href="~/Account/Login">Register</a></li>
-        </ul>
-
+    <div class="watchPreview">
         <div class="leftText">
-            <h1> ДИЗАЙНЕРСКИЙ ЧАСЫ </h1>
+            <h1> ДИЗАЙНЕРСКИЕ ЧАСЫ </h1>
             <p> ПОЛНОСТЬЮ РУЧНОЕ ИЗГОТОВЛЕНИЕ </p>
             <button class="buyHeader buttonToChange openModel" data-price="900000"> КУПИТЬ </button>
             <dialog class="dialogMain">
@@ -87,12 +79,11 @@
             <p> JACOB & CO <br>EPIC X TOURBILON BAGUETTE <br>900.000$</p>
             <img src="imgs/mainPhotoWatches.png">
         </div>
-    </header>
+    </div>
 
     <main>
         <div class="textInMain">
-            <p>ХИТЫ</p>
-            <p>ПОСЛЕДНИЕ ПОСТУПЛЕНИЯ</p>
+            <p style="margin: 0">ХИТЫ</p>
         </div>
         <div class="productsList">
             @foreach (var product in ViewBag.products)
