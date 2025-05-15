@@ -2,9 +2,12 @@
 using MySql.Data.MySqlClient;
 using OrderModel.Models;
 using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Identity;
+using task.Models;
 
 namespace task_beta.Controllers
 {
+    //[Authorize]
     [Authorize(Roles = "Admin")]
     public class deleteController : Controller
     {
@@ -22,6 +25,12 @@ namespace task_beta.Controllers
         {
             Console.WriteLine("Пользователь авторизован: " + User.Identity.IsAuthenticated);
             Console.WriteLine("Имя пользователя: " + User.Identity.Name);
+
+            
+            //var userRoles = await _userManager.GetRolesAsync(user);
+            //var allRoles = _roleManager.Roles.ToList();
+
+
 
             foreach (var claim in User.Claims)
             {

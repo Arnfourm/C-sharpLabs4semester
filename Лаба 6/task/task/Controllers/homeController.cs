@@ -10,11 +10,8 @@ namespace task.Controllers
         private readonly ILogger<HomeController> _logger;
         private string connection;
 
-
-        public HomeController(ILogger<HomeController> logger, IConfiguration configuration)
-
+        public HomeController(IConfiguration configuration)
         {
-            _logger = logger;
             connection = configuration.GetConnectionString("MySqlConnection");
         }
 
