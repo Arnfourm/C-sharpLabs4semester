@@ -1,3 +1,4 @@
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using MySql.Data.MySqlClient;
 using OrderModel.Models;
@@ -5,6 +6,7 @@ using ProductModel.Models;
 
 namespace task.Controllers
 {
+    [Authorize]
     public class HomeController : Controller
     {
         private string connection;

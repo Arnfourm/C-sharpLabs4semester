@@ -1,9 +1,11 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using MySql.Data.MySqlClient;
 using OrderModel.Models;
 
 namespace task_beta.Controllers
 {
+    [Authorize(Roles = "Admin")]
     public class watchController : Controller
     {
         private string connection;

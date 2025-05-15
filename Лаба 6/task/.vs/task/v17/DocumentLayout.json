@@ -3,6 +3,53 @@
   "WorkspaceRootPath": "C:\\Users\\\u0410\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\Desktop\\C-sharpLabs4semester\\\u041B\u0430\u0431\u0430 6\\task\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1BB796A6-3287-4B60-8A80-8E1A2FC2FD20}|task\\task.csproj|c:\\users\\\u0430\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\desktop\\c-sharplabs4semester\\\u043B\u0430\u0431\u0430 6\\task\\task\\controllers\\deletecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB796A6-3287-4B60-8A80-8E1A2FC2FD20}|task\\task.csproj|solutionrelative:task\\controllers\\deletecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB796A6-3287-4B60-8A80-8E1A2FC2FD20}|task\\task.csproj|c:\\users\\\u0430\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\desktop\\c-sharplabs4semester\\\u043B\u0430\u0431\u0430 6\\task\\task\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB796A6-3287-4B60-8A80-8E1A2FC2FD20}|task\\task.csproj|solutionrelative:task\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB796A6-3287-4B60-8A80-8E1A2FC2FD20}|task\\task.csproj|c:\\users\\\u0430\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\desktop\\c-sharplabs4semester\\\u043B\u0430\u0431\u0430 6\\task\\task\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB796A6-3287-4B60-8A80-8E1A2FC2FD20}|task\\task.csproj|solutionrelative:task\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB796A6-3287-4B60-8A80-8E1A2FC2FD20}|task\\task.csproj|c:\\users\\\u0430\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\desktop\\c-sharplabs4semester\\\u043B\u0430\u0431\u0430 6\\task\\task\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB796A6-3287-4B60-8A80-8E1A2FC2FD20}|task\\task.csproj|solutionrelative:task\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB796A6-3287-4B60-8A80-8E1A2FC2FD20}|task\\task.csproj|c:\\users\\\u0430\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\desktop\\c-sharplabs4semester\\\u043B\u0430\u0431\u0430 6\\task\\task\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB796A6-3287-4B60-8A80-8E1A2FC2FD20}|task\\task.csproj|solutionrelative:task\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB796A6-3287-4B60-8A80-8E1A2FC2FD20}|task\\task.csproj|c:\\users\\\u0430\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\desktop\\c-sharplabs4semester\\\u043B\u0430\u0431\u0430 6\\task\\task\\models\\viewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB796A6-3287-4B60-8A80-8E1A2FC2FD20}|task\\task.csproj|solutionrelative:task\\models\\viewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB796A6-3287-4B60-8A80-8E1A2FC2FD20}|task\\task.csproj|c:\\users\\\u0430\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\desktop\\c-sharplabs4semester\\\u043B\u0430\u0431\u0430 6\\task\\task\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB796A6-3287-4B60-8A80-8E1A2FC2FD20}|task\\task.csproj|solutionrelative:task\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB796A6-3287-4B60-8A80-8E1A2FC2FD20}|task\\task.csproj|c:\\users\\\u0430\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\desktop\\c-sharplabs4semester\\\u043B\u0430\u0431\u0430 6\\task\\task\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB796A6-3287-4B60-8A80-8E1A2FC2FD20}|task\\task.csproj|solutionrelative:task\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB796A6-3287-4B60-8A80-8E1A2FC2FD20}|task\\task.csproj|c:\\users\\\u0430\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\desktop\\c-sharplabs4semester\\\u043B\u0430\u0431\u0430 6\\task\\task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB796A6-3287-4B60-8A80-8E1A2FC2FD20}|task\\task.csproj|solutionrelative:task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0410\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\AppData\\Local\\Temp\\wqqhmpo2..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB796A6-3287-4B60-8A80-8E1A2FC2FD20}|task\\task.csproj|c:\\users\\\u0430\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\desktop\\c-sharplabs4semester\\\u043B\u0430\u0431\u0430 6\\task\\task\\controllers\\editcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB796A6-3287-4B60-8A80-8E1A2FC2FD20}|task\\task.csproj|solutionrelative:task\\controllers\\editcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB796A6-3287-4B60-8A80-8E1A2FC2FD20}|task\\task.csproj|c:\\users\\\u0430\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\desktop\\c-sharplabs4semester\\\u043B\u0430\u0431\u0430 6\\task\\task\\controllers\\observercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB796A6-3287-4B60-8A80-8E1A2FC2FD20}|task\\task.csproj|solutionrelative:task\\controllers\\observercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1BB796A6-3287-4B60-8A80-8E1A2FC2FD20}|task\\task.csproj|c:\\users\\\u0430\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\desktop\\c-sharplabs4semester\\\u043B\u0430\u0431\u0430 6\\task\\task\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1BB796A6-3287-4B60-8A80-8E1A2FC2FD20}|task\\task.csproj|solutionrelative:task\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -15,28 +62,8 @@
       "RelativeMoniker": "D:0:0:{1BB796A6-3287-4B60-8A80-8E1A2FC2FD20}|task\\task.csproj|solutionrelative:task\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1BB796A6-3287-4B60-8A80-8E1A2FC2FD20}|task\\task.csproj|c:\\users\\\u0430\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\desktop\\c-sharplabs4semester\\\u043B\u0430\u0431\u0430 6\\task\\task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BB796A6-3287-4B60-8A80-8E1A2FC2FD20}|task\\task.csproj|solutionrelative:task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1BB796A6-3287-4B60-8A80-8E1A2FC2FD20}|task\\task.csproj|c:\\users\\\u0430\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\desktop\\c-sharplabs4semester\\\u043B\u0430\u0431\u0430 6\\task\\task\\views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1BB796A6-3287-4B60-8A80-8E1A2FC2FD20}|task\\task.csproj|solutionrelative:task\\views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1BB796A6-3287-4B60-8A80-8E1A2FC2FD20}|task\\task.csproj|c:\\users\\\u0430\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\desktop\\c-sharplabs4semester\\\u043B\u0430\u0431\u0430 6\\task\\task\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BB796A6-3287-4B60-8A80-8E1A2FC2FD20}|task\\task.csproj|solutionrelative:task\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1BB796A6-3287-4B60-8A80-8E1A2FC2FD20}|task\\task.csproj|c:\\users\\\u0430\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\desktop\\c-sharplabs4semester\\\u043B\u0430\u0431\u0430 6\\task\\task\\controllers\\deletecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BB796A6-3287-4B60-8A80-8E1A2FC2FD20}|task\\task.csproj|solutionrelative:task\\controllers\\deletecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1BB796A6-3287-4B60-8A80-8E1A2FC2FD20}|task\\task.csproj|c:\\users\\\u0430\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\desktop\\c-sharplabs4semester\\\u043B\u0430\u0431\u0430 6\\task\\task\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BB796A6-3287-4B60-8A80-8E1A2FC2FD20}|task\\task.csproj|solutionrelative:task\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1BB796A6-3287-4B60-8A80-8E1A2FC2FD20}|task\\task.csproj|c:\\users\\\u0430\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\desktop\\c-sharplabs4semester\\\u043B\u0430\u0431\u0430 6\\task\\task\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BB796A6-3287-4B60-8A80-8E1A2FC2FD20}|task\\task.csproj|solutionrelative:task\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0410\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\AppData\\Local\\Temp\\n2j2rq20..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
@@ -47,10 +74,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0410\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\AppData\\Local\\Temp\\1oegi3ta..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1BB796A6-3287-4B60-8A80-8E1A2FC2FD20}|task\\task.csproj|c:\\users\\\u0430\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\desktop\\c-sharplabs4semester\\\u043B\u0430\u0431\u0430 6\\task\\task\\models\\viewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BB796A6-3287-4B60-8A80-8E1A2FC2FD20}|task\\task.csproj|solutionrelative:task\\models\\viewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1BB796A6-3287-4B60-8A80-8E1A2FC2FD20}|task\\task.csproj|c:\\users\\\u0430\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\desktop\\c-sharplabs4semester\\\u043B\u0430\u0431\u0430 6\\task\\task\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -84,12 +107,10 @@
       "RelativeMoniker": "D:0:0:{1BB796A6-3287-4B60-8A80-8E1A2FC2FD20}|task\\task.csproj|solutionrelative:task\\views\\edit\\editor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1BB796A6-3287-4B60-8A80-8E1A2FC2FD20}|task\\task.csproj|c:\\users\\\u0430\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\desktop\\c-sharplabs4semester\\\u043B\u0430\u0431\u0430 6\\task\\task\\controllers\\observercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BB796A6-3287-4B60-8A80-8E1A2FC2FD20}|task\\task.csproj|solutionrelative:task\\controllers\\observercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0410\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\AppData\\Local\\Temp\\wqqhmpo2..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1BB796A6-3287-4B60-8A80-8E1A2FC2FD20}|task\\task.csproj|c:\\users\\\u0430\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\desktop\\c-sharplabs4semester\\\u043B\u0430\u0431\u0430 6\\task\\task\\controllers\\editcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BB796A6-3287-4B60-8A80-8E1A2FC2FD20}|task\\task.csproj|solutionrelative:task\\controllers\\editcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0410\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\AppData\\Local\\Temp\\wqqhmpo2..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -113,102 +134,63 @@
         },
         {
           "DockedWidth": 2010,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AccessDenied.cshtml",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\Desktop\\C-sharpLabs4semester\\\u041B\u0430\u0431\u0430 6\\task\\task\\Views\\Account\\AccessDenied.cshtml",
-              "RelativeDocumentMoniker": "task\\Views\\Account\\AccessDenied.cshtml",
-              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\Desktop\\C-sharpLabs4semester\\\u041B\u0430\u0431\u0430 6\\task\\task\\Views\\Account\\AccessDenied.cshtml",
-              "RelativeToolTip": "task\\Views\\Account\\AccessDenied.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-15T15:21:14.551Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\Desktop\\C-sharpLabs4semester\\\u041B\u0430\u0431\u0430 6\\task\\task\\Program.cs",
-              "RelativeDocumentMoniker": "task\\Program.cs",
-              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\Desktop\\C-sharpLabs4semester\\\u041B\u0430\u0431\u0430 6\\task\\task\\Program.cs",
-              "RelativeToolTip": "task\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAAWAAAAAAAAAA==",
+              "Title": "ProductModel.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\Desktop\\C-sharpLabs4semester\\\u041B\u0430\u0431\u0430 6\\task\\task\\Models\\ProductModel.cs",
+              "RelativeDocumentMoniker": "task\\Models\\ProductModel.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\Desktop\\C-sharpLabs4semester\\\u041B\u0430\u0431\u0430 6\\task\\task\\Models\\ProductModel.cs",
+              "RelativeToolTip": "task\\Models\\ProductModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T15:13:02.309Z",
+              "WhenOpened": "2025-05-15T19:41:22.154Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\Desktop\\C-sharpLabs4semester\\\u041B\u0430\u0431\u0430 6\\task\\task\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "task\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\Desktop\\C-sharpLabs4semester\\\u041B\u0430\u0431\u0430 6\\task\\task\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "task\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-14T19:51:44.317Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\Desktop\\C-sharpLabs4semester\\\u041B\u0430\u0431\u0430 6\\task\\task\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "task\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\Desktop\\C-sharpLabs4semester\\\u041B\u0430\u0431\u0430 6\\task\\task\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "task\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-15T10:09:27.286Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\Desktop\\C-sharpLabs4semester\\\u041B\u0430\u0431\u0430 6\\task\\task\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "task\\Views\\Shared\\Error.cshtml",
-              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\Desktop\\C-sharpLabs4semester\\\u041B\u0430\u0431\u0430 6\\task\\task\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "task\\Views\\Shared\\Error.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-15T10:09:29.569Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\Desktop\\C-sharpLabs4semester\\\u041B\u0430\u0431\u0430 6\\task\\task\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "task\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\Desktop\\C-sharpLabs4semester\\\u041B\u0430\u0431\u0430 6\\task\\task\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "task\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAqwF0AAAAJAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\Desktop\\C-sharpLabs4semester\\\u041B\u0430\u0431\u0430 6\\task\\task\\Models\\User.cs",
+              "RelativeDocumentMoniker": "task\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\Desktop\\C-sharpLabs4semester\\\u041B\u0430\u0431\u0430 6\\task\\task\\Models\\User.cs",
+              "RelativeToolTip": "task\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T10:23:19.492Z",
+              "WhenOpened": "2025-05-15T19:41:20.6Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "deleteController.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\Desktop\\C-sharpLabs4semester\\\u041B\u0430\u0431\u0430 6\\task\\task\\Controllers\\deleteController.cs",
-              "RelativeDocumentMoniker": "task\\Controllers\\deleteController.cs",
-              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\Desktop\\C-sharpLabs4semester\\\u041B\u0430\u0431\u0430 6\\task\\task\\Controllers\\deleteController.cs",
-              "RelativeToolTip": "task\\Controllers\\deleteController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\Desktop\\C-sharpLabs4semester\\\u041B\u0430\u0431\u0430 6\\task\\task\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "task\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\Desktop\\C-sharpLabs4semester\\\u041B\u0430\u0431\u0430 6\\task\\task\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "task\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T09:45:46.031Z",
+              "WhenOpened": "2025-05-15T19:40:21.62Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
+              "Title": "homeController.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\Desktop\\C-sharpLabs4semester\\\u041B\u0430\u0431\u0430 6\\task\\task\\Controllers\\homeController.cs",
+              "RelativeDocumentMoniker": "task\\Controllers\\homeController.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\Desktop\\C-sharpLabs4semester\\\u041B\u0430\u0431\u0430 6\\task\\task\\Controllers\\homeController.cs",
+              "RelativeToolTip": "task\\Controllers\\homeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T10:07:50.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "LoginViewModel.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\Desktop\\C-sharpLabs4semester\\\u041B\u0430\u0431\u0430 6\\task\\task\\Models\\LoginViewModel.cs",
               "RelativeDocumentMoniker": "task\\Models\\LoginViewModel.cs",
@@ -216,11 +198,150 @@
               "RelativeToolTip": "task\\Models\\LoginViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T10:22:54.467Z"
+              "WhenOpened": "2025-05-15T10:22:54.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\Desktop\\C-sharpLabs4semester\\\u041B\u0430\u0431\u0430 6\\task\\task\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "task\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\Desktop\\C-sharpLabs4semester\\\u041B\u0430\u0431\u0430 6\\task\\task\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "task\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T10:23:19.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "deleteController.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\Desktop\\C-sharpLabs4semester\\\u041B\u0430\u0431\u0430 6\\task\\task\\Controllers\\deleteController.cs",
+              "RelativeDocumentMoniker": "task\\Controllers\\deleteController.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\Desktop\\C-sharpLabs4semester\\\u041B\u0430\u0431\u0430 6\\task\\task\\Controllers\\deleteController.cs",
+              "RelativeToolTip": "task\\Controllers\\deleteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T09:45:46.031Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "editController.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\Desktop\\C-sharpLabs4semester\\\u041B\u0430\u0431\u0430 6\\task\\task\\Controllers\\editController.cs",
+              "RelativeDocumentMoniker": "task\\Controllers\\editController.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\Desktop\\C-sharpLabs4semester\\\u041B\u0430\u0431\u0430 6\\task\\task\\Controllers\\editController.cs",
+              "RelativeToolTip": "task\\Controllers\\editController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T09:45:43.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "observerController.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\Desktop\\C-sharpLabs4semester\\\u041B\u0430\u0431\u0430 6\\task\\task\\Controllers\\observerController.cs",
+              "RelativeDocumentMoniker": "task\\Controllers\\observerController.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\Desktop\\C-sharpLabs4semester\\\u041B\u0430\u0431\u0430 6\\task\\task\\Controllers\\observerController.cs",
+              "RelativeToolTip": "task\\Controllers\\observerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T09:45:30.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SQLQuery1.sql ",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\AppData\\Local\\Temp\\wqqhmpo2..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\wqqhmpo2..sql",
+              "ToolTip": "SQLQuery1.sql *",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-15T16:52:39.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ViewModels.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\Desktop\\C-sharpLabs4semester\\\u041B\u0430\u0431\u0430 6\\task\\task\\Models\\ViewModels.cs",
+              "RelativeDocumentMoniker": "task\\Models\\ViewModels.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\Desktop\\C-sharpLabs4semester\\\u041B\u0430\u0431\u0430 6\\task\\task\\Models\\ViewModels.cs",
+              "RelativeToolTip": "task\\Models\\ViewModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T09:50:22.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\Desktop\\C-sharpLabs4semester\\\u041B\u0430\u0431\u0430 6\\task\\task\\Program.cs",
+              "RelativeDocumentMoniker": "task\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\Desktop\\C-sharpLabs4semester\\\u041B\u0430\u0431\u0430 6\\task\\task\\Program.cs",
+              "RelativeToolTip": "task\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAowDUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T15:13:02.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\Desktop\\C-sharpLabs4semester\\\u041B\u0430\u0431\u0430 6\\task\\task\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "task\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\Desktop\\C-sharpLabs4semester\\\u041B\u0430\u0431\u0430 6\\task\\task\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "task\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T19:51:44.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\Desktop\\C-sharpLabs4semester\\\u041B\u0430\u0431\u0430 6\\task\\task\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "task\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\Desktop\\C-sharpLabs4semester\\\u041B\u0430\u0431\u0430 6\\task\\task\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "task\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T10:09:29.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\Desktop\\C-sharpLabs4semester\\\u041B\u0430\u0431\u0430 6\\task\\task\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "task\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\Desktop\\C-sharpLabs4semester\\\u041B\u0430\u0431\u0430 6\\task\\task\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "task\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T10:09:27.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\Desktop\\C-sharpLabs4semester\\\u041B\u0430\u0431\u0430 6\\task\\task\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "task\\Views\\Account\\AccessDenied.cshtml",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\Desktop\\C-sharpLabs4semester\\\u041B\u0430\u0431\u0430 6\\task\\task\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeToolTip": "task\\Views\\Account\\AccessDenied.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T15:21:14.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\Desktop\\C-sharpLabs4semester\\\u041B\u0430\u0431\u0430 6\\task\\task\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "task\\Views\\Account\\Login.cshtml",
@@ -232,20 +353,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "homeController.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\Desktop\\C-sharpLabs4semester\\\u041B\u0430\u0431\u0430 6\\task\\task\\Controllers\\homeController.cs",
-              "RelativeDocumentMoniker": "task\\Controllers\\homeController.cs",
-              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\Desktop\\C-sharpLabs4semester\\\u041B\u0430\u0431\u0430 6\\task\\task\\Controllers\\homeController.cs",
-              "RelativeToolTip": "task\\Controllers\\homeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T10:07:50.482Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 16,
               "Title": "n2j2rq20..sql",
               "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\AppData\\Local\\Temp\\n2j2rq20..sql",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\n2j2rq20..sql",
@@ -256,7 +364,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 18,
               "Title": "1oegi3ta..sql",
               "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\AppData\\Local\\Temp\\1oegi3ta..sql",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\1oegi3ta..sql",
@@ -267,7 +375,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 19,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\Desktop\\C-sharpLabs4semester\\\u041B\u0430\u0431\u0430 6\\task\\task\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "task\\Views\\Home\\Index.cshtml",
@@ -279,19 +387,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ViewModels.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\Desktop\\C-sharpLabs4semester\\\u041B\u0430\u0431\u0430 6\\task\\task\\Models\\ViewModels.cs",
-              "RelativeDocumentMoniker": "task\\Models\\ViewModels.cs",
-              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\Desktop\\C-sharpLabs4semester\\\u041B\u0430\u0431\u0430 6\\task\\task\\Models\\ViewModels.cs",
-              "RelativeToolTip": "task\\Models\\ViewModels.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T09:50:22.489Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 20,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\Desktop\\C-sharpLabs4semester\\\u041B\u0430\u0431\u0430 6\\task\\task\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "task\\Models\\ErrorViewModel.cs",
@@ -303,7 +399,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 21,
               "Title": "OrderModel.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\Desktop\\C-sharpLabs4semester\\\u041B\u0430\u0431\u0430 6\\task\\task\\Models\\OrderModel.cs",
               "RelativeDocumentMoniker": "task\\Models\\OrderModel.cs",
@@ -315,7 +411,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 22,
               "Title": "iz3kokel..sql",
               "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\AppData\\Local\\Temp\\iz3kokel..sql",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\iz3kokel..sql",
@@ -326,7 +422,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 23,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\Desktop\\C-sharpLabs4semester\\\u041B\u0430\u0431\u0430 6\\task\\task\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "task\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
@@ -338,7 +434,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 25,
               "Title": "Observer.cshtml",
               "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\Desktop\\C-sharpLabs4semester\\\u041B\u0430\u0431\u0430 6\\task\\task\\Views\\Watch\\Observer.cshtml",
               "RelativeDocumentMoniker": "task\\Views\\Watch\\Observer.cshtml",
@@ -350,7 +446,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 24,
               "Title": "Deleter.cshtml",
               "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\Desktop\\C-sharpLabs4semester\\\u041B\u0430\u0431\u0430 6\\task\\task\\Views\\Delete\\Deleter.cshtml",
               "RelativeDocumentMoniker": "task\\Views\\Delete\\Deleter.cshtml",
@@ -362,7 +458,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 26,
               "Title": "Editor.cshtml",
               "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\Desktop\\C-sharpLabs4semester\\\u041B\u0430\u0431\u0430 6\\task\\task\\Views\\Edit\\Editor.cshtml",
               "RelativeDocumentMoniker": "task\\Views\\Edit\\Editor.cshtml",
@@ -371,30 +467,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-14T20:05:56.465Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "observerController.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\Desktop\\C-sharpLabs4semester\\\u041B\u0430\u0431\u0430 6\\task\\task\\Controllers\\observerController.cs",
-              "RelativeDocumentMoniker": "task\\Controllers\\observerController.cs",
-              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\Desktop\\C-sharpLabs4semester\\\u041B\u0430\u0431\u0430 6\\task\\task\\Controllers\\observerController.cs",
-              "RelativeToolTip": "task\\Controllers\\observerController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T09:45:30.485Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "editController.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\Desktop\\C-sharpLabs4semester\\\u041B\u0430\u0431\u0430 6\\task\\task\\Controllers\\editController.cs",
-              "RelativeDocumentMoniker": "task\\Controllers\\editController.cs",
-              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\Desktop\\C-sharpLabs4semester\\\u041B\u0430\u0431\u0430 6\\task\\task\\Controllers\\editController.cs",
-              "RelativeToolTip": "task\\Controllers\\editController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABLAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T09:45:43.736Z"
             }
           ]
         }
