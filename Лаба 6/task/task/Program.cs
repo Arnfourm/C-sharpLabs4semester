@@ -10,28 +10,20 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlServer(connectionString));
 builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 
-//builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
-//.AddEntityFrameworkStores<ApplicationDbContext>();
-
 builder.Services.AddIdentity<User, IdentityRole>()
     .AddEntityFrameworkStores<ApplicationDbContext>()
 ;
 
-//builder.Services.AddIdentity<IdentityUser, IdentityRole>(options =>
-//{
-//    options.SignIn.RequireConfirmedAccount = false;
-//})
-//.AddEntityFrameworkStores<ApplicationDbContext>()
-//.AddDefaultTokenProviders();
-
-//builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
-//    .AddEntityFrameworkStores<ApplicationDbContext>()
-//    .AddDefaultTokenProviders();
-
-
 builder.Services.AddControllersWithViews();
 
 builder.Services.AddRazorPages();
+
+builder.Services.AddAuthentication("Cookies")
+    .AddCookie("Cookies", options =>
+    {
+        options.LoginPath = "/Account/Login";
+        options.AccessDeniedPath = "/Account/AccessDenied";
+    });
 
 var app = builder.Build();
 

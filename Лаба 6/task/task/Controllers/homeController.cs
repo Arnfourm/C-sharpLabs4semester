@@ -7,7 +7,6 @@ namespace task.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
         private string connection;
 
         public HomeController(IConfiguration configuration)

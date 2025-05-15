@@ -32,8 +32,19 @@
                         </li>
                     </ul>
 
-                    <a class="nav-link text-dark" href="~/Account/Register">Register</a>
-                    <a class="nav-link text-dark" href="~/Account/Login">Login</a>
+                    @if (User.Identity.IsAuthenticated)
+                    {
+                        <a class="nav-link text-dark">@User.Identity.Name</a>
+
+                        <form class="nav-link text-dark" method="post" asp-controller="Account" asp-action="Logout">
+                            <input type="submit" value="Выход" />
+                        </form>
+                    }
+                    else
+                    {
+                        <a class="nav-link text-dark" href="~/Account/Register">Register</a>
+                        <a class="nav-link text-dark" href="~/Account/Login">Login</a>
+                    }
 
                 </div>
             </div>
