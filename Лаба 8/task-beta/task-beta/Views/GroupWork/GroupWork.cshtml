@@ -1,0 +1,54 @@
+﻿@using task_beta.Controllers
+@model groupWorkController
+@{
+
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Overpass:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+    <title>Details</title>
+    <link rel="stylesheet" href="~/css/Forms.css">
+</head>
+<body>
+    <header>
+        <ul class="list-style">
+            <li><a href="~/Home">Home</a></li>
+            <li><a href="~/Watch/Observer">Observer</a></li>
+            <li><a href="#">GroupWork</a></li>
+            <li><a href="~/Edit/Editor">Editor</a></li>
+            <li><a href="~/Delete/Deleter">Deleter</a></li>
+        </ul>
+    </header>
+    <main>
+        <div class="addModule orderContainer ">
+            <div class="textInMain addText textOrder">
+                <p>СТРАНИЦА РЕДАКТИРОВАНИЯ ГРУПП</p>
+            </div>
+
+            <form asp-action="ChangePrice" class="Form" method="post">
+                <p>
+                    <label>Группа:</label>
+                    <select name="type">
+                        <option value="all">Все</option>
+                        <option value="watch">Watch</option>
+                        <option value="accessory">Accessory</option>
+                    </select>
+                </p>
+
+                <p>
+                    <label>Процент изменения цены:</label>
+                    <input required type="number" name="percent" placeholder="Процент...">
+                </p>
+
+                <button type="submit"> Изменить </button>
+            </form>
+        </div>
+    </main>
+</body>
+</html>
