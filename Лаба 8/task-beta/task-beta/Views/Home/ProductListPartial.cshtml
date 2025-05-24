@@ -1,0 +1,10 @@
+﻿@foreach (var product in Model)
+{
+    <div class="productUnit">
+        <img src="@product.ProductIMG" />
+        <p>@product.ProductName</p>
+        <p>Тип продукта: @product.ProductType</p>
+        <p>@($"{product.ProductCost}$")</p>
+        <button class="buttonUnit buttonToChange openModel" data-price="@product.ProductCost"> Купить </button>
+    </div>
+}

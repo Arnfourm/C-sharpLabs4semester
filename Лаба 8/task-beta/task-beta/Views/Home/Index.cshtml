@@ -96,27 +96,33 @@
         </div>
 
         <form method="get" class="selectionType">
-            <select name="selectType" onchange="this.form.submit()">
-                <option value="All" selected="@(ViewBag.SelectedType == "All" ? "selected" : null)">Все</option>
-                <option value="Watch" selected="@(ViewBag.SelectedType == "Watch" ? "selected" : null)">Часы</option>
-                <option value="Accessory" selected="@(ViewBag.SelectedType == "Accessory" ? "selected" : null)">Аксессуары</option>
+            <select name="selectType" id="selectType">
+                <option value="All" selected>Все</option>
+                <option value="Watch">Часы</option>
+                <option value="Accessory">Аксессуары</option>
             </select>
         </form>
 
 
-        <div class="productsList">
-            @foreach(var product in ViewBag.products)
-            {
-                <div class="productUnit">
-                    <img src="@product.ProductIMG" />
-                    <p>@product.ProductName</p>
-                    <p>Тип продукта: @product.ProductType</p>
-                    <p>@($"{product.ProductCost}$")</p>
-                    <button class="buttonUnit buttonToChange openModel" data-price="@product.ProductCost"> Купить </button>
-                </div>
-            }
+        <div class="productsList" id="productsContainer">
+            @Html.Partial("ProductListPartial", ViewBag.Products as List<ProductModel.Models.Product>)
         </div>
+
     </main>
+
     <script src="~/js/JavaScript.js"></script>
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            const selectType = document.getElementById("selectType");
+            const container = document.getElementById("productsContainer");
+
+            selectType.addEventListener("change", function () {
+                fetch(`/Home/GetProductsByType?selectType=${this.value}`)
+                    .then(response => response.text())
+                    .then(html => container.innerHTML = html);
+            });
+        });
+    </script>
+
 </body>
 </html>

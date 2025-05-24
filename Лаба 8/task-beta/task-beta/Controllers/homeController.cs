@@ -14,20 +14,15 @@ namespace task_beta.Controllers
             this.db = db;
         }
 
-        private List<Product> products = new List<Product>();
-
         [BindProperty]
         public Order order { get; set; } = new Order();
 
         [HttpGet]
         public async Task<IActionResult> Index(string selectType = "All")
         {
-            products.Clear();
+            List<Product> products;
 
-            if (selectType == "All")
-                products = db.products.ToList();
-            else
-                products = db.products.Where(p => p.ProductType == selectType).ToList();
+            products = db.products.ToList();
 
             ViewBag.Products = products;
             ViewBag.SelectedType = selectType;
@@ -37,6 +32,18 @@ namespace task_beta.Controllers
             return View();
         }
 
+        [HttpGet]
+        public IActionResult GetProductsByType(string selectType = "All")
+        {
+            List<Product> products;
+
+            if (selectType == "All")
+                products = db.products.ToList();
+            else
+                products = db.products.Where(p => p.ProductType == selectType).ToList();
+
+            return PartialView("ProductListPartial", products);
+        }
 
         private string successValid = "";
         private string errorValid = "";
